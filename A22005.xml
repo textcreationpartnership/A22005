@@ -1,0 +1,347 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Iames by the grace of God King of England, Scotland, Fraunce, and  Ireland ... whereas diuers great deceipts and abuses tending not only to the preiudice of vs in our customes and other duties, but also to the great deceipt ... of many of our louing subiects are dayly practised ... by persons using or exercising the art, misterie, and trade of dying and colouring of woolles ...</title>
+            <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1604</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A22005</idno>
+            <idno type="STC">STC 8358</idno>
+            <idno type="STC">ESTC S3804</idno>
+            <idno type="EEBO-CITATION">33151007</idno>
+            <idno type="OCLC">ocm 33151007</idno>
+            <idno type="VID">28863</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A22005)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 28863)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1875:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Iames by the grace of God King of England, Scotland, Fraunce, and  Ireland ... whereas diuers great deceipts and abuses tending not only to the preiudice of vs in our customes and other duties, but also to the great deceipt ... of many of our louing subiects are dayly practised ... by persons using or exercising the art, misterie, and trade of dying and colouring of woolles ...</title>
+                  <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+                  <author>James I, King of England, 1566-1625.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Thomas Purfoot,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1604]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title and other title information from first 5 lines of text.</note>
+                  <note>For granting 41-year patent to Sir Arthur Aston and 5 others to import logwood and blockwood, and sell their own compund for dyeing.</note>
+                  <note>"Witness our selfe at Harefield the Three and Twentieth day of August the yeere of our Raigne of England, Fraunce, and Ireland, the Second, and of Scotland the eight and thirtieth."</note>
+                  <note>Imperfect: tightly bound with loss of text.</note>
+                  <note>Reproduction of original in: Society of Antiquaries.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Aston, Arthur, --  Sir, fl. 1604-1606.</term>
+               <term>Dyes and dyeing --  Early works to 1800.</term>
+               <term>Logwood --  England --  Early works to 1800.</term>
+               <term>Monopolies --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  James I, 1603-1625.</term>
+               <term>Broadsides --  London (England) --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="document">
+            <pb facs="tcp:28863:1" rendition="simple:additions"/>
+            <head>
+               <seg rend="decorInit">I</seg> 
+               <seg rend="decorInit">R</seg> 
+               <figure>
+                  <q xml:lang="frm">HONI SOIT QVI MAL Y PENSE</q>
+                  <figDesc>English royal blazon surmounted by a crown</figDesc>
+               </figure>
+            </head>
+            <opener>
+               <signed>
+                  <hi>
+                     <seg rend="decorInit">I</seg>AMES</hi> By the grace of God King of England, Scotland, Fraunce, and Ireland Defender of the Faith &amp;c.</signed> 
+               <salute>TO all to whome theſe pre<g ref="char:EOLhyphen"/>ſents ſhall come, gréeting.</salute>
+            </opener>
+            <p>WHEREAS diuers great Deceipts and abuſes tending not only to the preiudice of vs in our Cuſtomes and other duties, but alſo to the great deceipt and hinderance of many of our louing ſubiects are dayly practiſed &amp; committed by diuers perſons vſing or exerciſing the Art, Miſterie, and Trade of Dying, and colouring of Woolles, Yarnes, Clothes, Kerſies, Dozens, Bayes, Sayes, Knit-hoſe, Cottons, Rugges, and other Clothes, Stuffes, and Commodities within this our Realme and Domynions of the ſame, being for the moſt parte dyed and coloured with ſuch Colours as are not perfect nor durable, but doe within ſhort time decay and weare out, or otherwiſe become ſo ſtayned and changed in ſuch ſort, as they grow thereby altogether vnprofitable and vnfit for the vſe of our louing ſubiects, and yet are vttered and ſold as for good and perfect Colours, to the great loſſe, hinderance, and detriment of ſuch of our louing ſubiects as doe or ſhall buy or vſe the ſame, and to the diſcredit, and ſlaunder of the ſaid Co<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>modities both at home and in all other forraine parts, being the principall Comodities of our Realme, and yet the prizes and rates of the ſame Dyings and Colourings are become ſo great and high by only ſeeming in ſhew to be good, as thereby the prizes of all kinds of the foreſaid Commodities are not only much encreaſed &amp; rayſed,<note place="margin">
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ompounded <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> for <hi>Dying</hi> out by Sir <hi>
+                     <gap reason="illegible" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap>ure Aſton</hi> 
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>t, &amp; others.</note> but the ſame alſo excéedingly diſcredited both at home &amp; abroad. Now for aſmuch as our truſtie and welbeloued ſer<g ref="char:EOLhyphen"/>uants and ſubiects Sir <hi>Arthure Aſton</hi> knight, <hi>Iohn Acamonty, Richard Harding</hi> Eſquiers, <hi>George Siluer, Robert Webbe,</hi> and <hi>Frauncis Blocke</hi> Gentle<g ref="char:EOLhyphen"/>men, haue by their owne proper labour and induſtrie, and at their owne great coſt, charges, and expences, found out not only the true and perfect mean of working &amp; dying with certen woodes which by the laws &amp; ſtatutes of this Realme are forbidden to be vſed in the Art of Dying, But alſo a ſecret not heretofore diſcouered in Commixing and Compounding certen ſtuffe or ſtuffes with the ſaid Wooddes or ſome of them for the binding and fixing of the Colours to be made there<g ref="char:EOLhyphen"/>withall, with which compoſition, and with other grounds to be vſed in the Art of Dying, they haue vndertaken to Dye and Colour, and to giue directions to die and colour, or cauſe to be dyed or coloured, All or any kinds of Woolles, Yarnes, Clothes, Kerſies, Dozens, Bayes, Sayes, Knit-hoſe Cottons, Rugges, and all &amp; euery other ſtuffes and Commodities whatſoe<g ref="char:EOLhyphen"/>uer vſed or occupied within our Realme of England or the Domynions thereof or of any part thereof with good &amp; durable dyes and colours, ſuch as ſhall continue, endure, and hould out all maner of wearing, tryalls, and alſo to vtter and ſell the ſame at conuenient and reaſonable prizes.</p>
+            <p>
+               <note place="margin">
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> grant for <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>inging in prohibited <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>s, for the <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>g of the Co<g ref="char:cmbAbbrStroke">̄</g>poſition.</note>KNOWE yée therefore that wée greatly tendring and affecting the publique and generall good and profite of all our louing Subiects, and for the aduancement of the trade and traf<g ref="char:EOLhyphen"/>fiique of Clothes and other the premiſſes into all forraine parts, in conſideration of the premiſſes, and for diuers other waightie cauſes vs thereunto eſpecially moouing, Of our eſpeciall grace, certen knowledge, and meere motion, Haue giuen and graunted, and by theſe preſents for vs, our heires, and Succeſſors doe giue and graunt full, free, and lawfull power, licence and authoritie vnto the ſaid Sir <hi>Arthure Aſton, Iohn Acamonty, Richard Harding, George Siluer, Robert Webbe,</hi> and <hi>Frauncis Blocke</hi> and eyther of them, their and euery of their executors adminiſtrators and aſſignes and euery of them, and to their and euery of their ſeruants, factors, &amp; deputies to be thereunto authoriſed by wryting vnder the hands &amp; ſeales of them or the ſur<g ref="char:EOLhyphen"/>uiuors of them or of any three or more of them, at all times and from time to time during the ſpace of One and Fortie yéeres next and ymmediatly coming after the date hereof, to conuey &amp; bring, or cauſe to be conueyed or brought into any the parts of this our Realme or the Domynions of the ſame from any the parts beyond y<hi rend="sup">e</hi> ſeas, All and all maner of Wood &amp; Woods cal<g ref="char:EOLhyphen"/>led or knowen by the name or names of Log-wood and Block-wood and eyther of them, and all and euery ſuch other Wood and Woods whatſoeuer by what name or names ſoeuer they are or ſhalbe called or knowen, which now be, or at any time heretofore haue béen prohibited or forbidden to be vſed in y<hi rend="sup">e</hi> ſaid Art or miſtery of Dying, by any law, or ſtatute of this our Realme of England in that caſe made and prouided, the ſaid lawes or ſtatutes, or any other law, ſtature, act of Parliament, or other matter or thing whatſoeuer to the contrarie notwithſtanding.</p>
+            <p>PAYING vnto vs our heires and ſucceſſors ſuch Cuſtomes, Subſidies, and other duties for all and euery the ſame Woods ſo to be brought in as is aforeſaid, as are, or ſhall be due, anſwerable, or payable to vs, our heires, and ſucceſſors of or for the ſame.</p>
+            <p>
+               <note place="margin">
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ver to make <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nie, ſtuffe, to <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> in <hi>Dying,</hi> or <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>er, and ſell <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>me.</note>AND further we doe by theſe preſents for vs, our heires, and ſucceſſors, of our eſpeciall grace, certen knowledge, and meere motion, giue and graunt vnto the ſaid Sir <hi>Arthure Aſton, Iohn Acamonty,</hi>
+               <hi>Richard Harding, George Siluer, Robert Webbe,</hi> and <hi>Frauncis Blocke,</hi> and to euery of them, their and euery of their executors, adminiſtrators and aſſignes &amp; euery of them, and to their and euery of their ſeruants, factors, and deputies to be thereunto authoriſed by wryting vnder the hands and ſeales of them or the ſuruiuors of them or of any three or more of them, fall, free, and lawful power, licence, and authoritie, that it ſhall or may be lawfull to them and euery of them during the Terme aforeſaid, in all and euery Countie, Citie, towne Corporate, and other Townes, Villages, Hamblets, and other places within this Realme or any the Domynions thereof, aſwell in places exempt as not exempt, to make, worke, commixe, or compound, and cauſe to be made, wrought, commixed, or compounded the ſaid ſtuffe or ſtuffes with the ſaid Woods or ſome of them to be made &amp; compounded as is aforeſaid and for the purpoſe before mentioned, And the ſame to vſe in dying, or to vtter and ſell the ſame to any the ſubiects of vs, our heires, and ſucceſſors to be vſed in dying or colouring of any colthes or other commodities or things whatſoeuer within this our Realme or any the Domynions thereof, Any lawes, ſtatutes, or ordinance to the centrarie in any wiſe notwithſtan<g ref="char:EOLhyphen"/>ding.<note place="margin">
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> to thoſe <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hall buy the <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> to <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſe, and <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>e the ſame <hi>
+                     <gap reason="illegible" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>ng.</hi>
+               </note>AND alſo that it ſhall &amp; may be lawfull to and for them and euery of them to whome the ſame ſtuffe or ſtuffes ſhalbe ſo ſould (being ſubiects to vs our heires and ſucceſſors, and being borne and liuing vnder the obedience of vs our heires &amp; ſucceſſors) their workemen, ſeruants, and apprentices to vſe and occupie the ſaid ſtuffe or ſtuffes ſo commixed or compound<g ref="char:EOLhyphen"/>ded, or cauſed to be commixed or compounded by them the ſaid Sir <hi>Arthure Aſton, Iohn Acamontie, Richard Harding, George Siluer, Robert Webbe,</hi> and <hi>Frauncis Blocke,</hi> or any of them, their executors adminiſtrators or aſſignes or any of them, or by their or any of their ſeruants, factors, or deputies to be thereunto authoriſed by wayting vnder the hands and ſeales of them or the ſuruiuors of them or of any three or more of them, in and for the dying and colouring of all &amp; all maner of Woolles, Yarnes, Clothes, Kerſies, Dozens, Bayes, Sayes, Knit-hoſe, Cot<g ref="char:EOLhyphen"/>tons, Rugges, and other ſtuffes &amp; commodities whatſoeuer within this our Realme or the Domynions therof in any houſe or houſes, place or places by them or any of them to be employ<g ref="char:EOLhyphen"/>ed for the ſame, being thought fit &amp; conuenient for that purpoſe, Any law, ſtatute, act of parliament, or ordinance, or other matter or thing to the contrarie in any wiſe notwithſtanding.</p>
+            <p>
+               <note place="margin">
+                  <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>wer to vtter <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ll the como<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap>s ſo dyed <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the ſaide <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</note>AND the Comodities and things with the ſaid commixtion, compoſition, or dying ſtuffe ſo to be dyed as aforeſaid, ſhall &amp; may likewiſe be lawfully ſold and vttered to any perſon or perſons whatſoeuer, Any law, ſtatute, act of parliament, ordinance, or other matter, cauſe, or thing whatſoeuer to the contrarie thereof in any wiſe notwithſtanding.</p>
+            <p>TO HAUE and to hould all &amp; ſinguler the ſaid Licences, powers, and authorities and other the premiſſes before in &amp; by theſe preſents graunted, to the ſaid Sir <hi>Arthure Aſton, Iohn Acamontie, Richard Harding, George Siluer, Robert Webbe,</hi> &amp; <hi>Frauncis Blocke,</hi> end to euery of them, their and euerie of their executors, adminiſtrators, and aſſignes, from and after the date hereof vntill the end and terme of One and Fortie yéeres from thence next enſuing &amp; fully to be compleat and ended. AND foraſmuch as our purpoſe, will, &amp; pleaſure is to auoid &amp; ſup<g ref="char:EOLhyphen"/>preſſe in this our Realme &amp; the Domynions thereof all &amp; all maner of working in the Art or miſterie of Dying with any maner of deceitfull woods not ſufficiently commixed or compounded as aforeſaid, by what name or names ſoeuer they be called, other then ſuch as ſhalbe ſo co<g ref="char:cmbAbbrStroke">̄</g>mixed or compounded by the ſaid ſir <hi>Arthure Aſton, Iohn Acamontie, Richard Harding, George Siluer, Robert Webbe,</hi> and <hi>Frauncis Blocke,</hi> or any of them, their executors, adminiſtrators or aſſignes or any of them, or by their or any of their ſeruants, factors, or deputies or any of them to be thereunto authoriſed as aforeſaid.<note place="margin">
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>wer to ſearch and ſeaze all <gap reason="illegible" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>ibited woods</note>WEE doe therefore of our eſpeciall grace, certen knowledge, and méere motion by theſe preſents nominate, ordaine and appoynt the ſaide ſir <hi>Arthure Aſton, Iohn Acamontie,</hi> and <hi>Richard Harding,</hi> and euery of them, their and euery of their executors, adminiſtratos, deputies and aſſignes to be Searches for &amp; concerning the fin<g ref="char:EOLhyphen"/>ding out of the ſaid Woodes, and doe by theſe preſents giue full power &amp; authoritie vnto the ſaid ſir <hi>Arthure Aſton, Iohn Acamontie,</hi> and <hi>Richard Harding,</hi> and euery of them, their &amp; euery of their executors, adminiſtrators &amp; aſſignes, and to their &amp; euery of their Deputies ſhewing foorth theſe our Letters Patents, or the Duplicate, Tranſcript, or the Exemplification thereof at all times, &amp; from time to time during the terme aforeſaid in the day time with the Conſtable or other head Officer of the Towne, pariſh, or place at all conuenient times to Enter into euery Shippe, Barke Boat Bottome, Crayer, Lighter, or other Veſſell, and into euery ſhoppe, celler, warehouſe, place &amp; places aſwell within Cities, Townes corporate, market townes, villages, and hamblets, as in all other places aſwell within liberties as without within this our Realme of England and the Domynions therof, in all conuenient, lawfull, &amp; reaſonable maner to ſearch &amp; find out all or any of the ſaid deceyuable woods, &amp; the ſame ſo found to ſeaze &amp; diſpoſe of as by the lawes and ſtatutes of this our Realme of England is in that behalfe limi<g ref="char:EOLhyphen"/>ted and appointed, or otherwiſe as ſhall ſéeme to them fit &amp; conuenient for the making and compounding of the ſtuffe to die therewith as is before mentioned.</p>
+            <p>
+               <note place="margin">
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> entr<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ie to be <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>e, or cuſtome <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e paid for any <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>idden woods, <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> than ſuch as be brought in be ſaid Paten<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> &amp;c.</note>AND furthermore wée doe hereby for vs, our heires, and ſucceſſors forbid, and our expreſſe will and pleaſure is, That no Cuſtomer, Controller, or Collector of the Cuſtomes or Sub<g ref="char:EOLhyphen"/>ſidies of Tonnage or Pondage of vs our heires &amp; ſucceſſors, or any of our or their Farmers or Officers, ſhall at any time during the terme of yáeres aboue mentioned accept of, or take any entrie, or receaue any cuſtome or ſubſidie, or make any compoſition of or for any cuſtome or ſubſidie of or for any Log-wood or Blockewood, or any other wood or woods commonly vſed in Dying, prohibited &amp; forbidden by the lawes &amp; ſtatutes of this Realme of England, (or any of them) to be brought into this our Realme or other the Domynions of the ſame or any part thereof, other then of the ſaid ſir <hi>Arthure Aſton, Iohn Acamontie, Richard Harding, George Siluer, Robert Webbe,</hi> and <hi>Frauncis Blocke,</hi> or any of them, their executors, adminiſtrators or aſſignes or any of them, or their or any of their deputie or deputies thereunto authoriſed as is aforeſaid, Any law, ſtatute, cuſtome, or vſage to the contrarie notwithſtanding. <note place="margin">
+                  <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>l Cuſtomers, vpon euerie entrie to be <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>ed, to giue <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>nt notice to <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>atentees, &amp;c. <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>e end the <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> may be ſea<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> and diſpoſed according to <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aw.</note>AND wée doe further hereby will and appoint, that vpon euery ſuch entrie to be offered to any the ſaid Cuſtomers, Controllers, Farmers or Officers of any the Woods aforeſaid by any other perſon or perſons other then the ſaid ſir <hi>Arthure Aſton,</hi>
+               <hi>Iohn Acamontie, Richard Harding, George Siluer, Robert Webbe,</hi> and <hi>Frauncis Blocke,</hi> or any of them, their executors adminiſtrators or aſſignes or any of them, or their or any of their Deputies thereunto authoriſed as aforeſaid, euery ſuch Cuſtomer, Controller, Collector, Farmer or Officer to whom any ſuch entry ſhal<g ref="char:EOLhyphen"/>be offered, ſhall therof with all conuenient ſpéed after euery ſuch entry offered, Certifie the ſaid ſir <hi>Arthure Aſton,</hi> Iohn Acamontie, Richard Harding, George Siluer, Robert Webbe, <hi>and Fraun<g ref="char:EOLhyphen"/>cis Blocke,</hi> or one of them, or one of their executors, adminiſtrators, deputies, or aſſignes of the ſame, to the end that they &amp; enery of them may cauſe the ſaid Log-wood and Block-wood and other the woods aforeſaid to be burned, according to the lawes of this Realme in that behal<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ade and prouided, or otherwiſe to diſpoſe thereof as ſhalbe by them thought fit &amp; conueni<g ref="char:EOLhyphen"/>ent for the making &amp; compounding of the ſtuffe to Die therewith as is before mentioned. AND foraſmuch as our further will and pleaſure is, that theſe our Letters Patents and all things therein contained ſhalbe held in due regard, and be duly executed in all points aſwell within Cities, Boroughes, townes corporate, Market townes, as in all other place &amp; places whatſoeuer within this our Realme or the Dominions thereof, any Charters, Letters Patents, Priuiledges, liberties, grants, preſcription, or reſtraint to the contrarie notwithſtanding.</p>
+            <p>WEE doe therefore by theſe preſents ſtraightly charge, will, and require all and euery Iuſtices of Peace, Maiors, Sheriffes, Bayliffes, Gouernors of townes, Headboroughes, Con<g ref="char:EOLhyphen"/>ſtables, Alnegers, Cuſtomers, Controllers, Searchers, and all other our Officers, miniſters, and ſubiects whatſoeuer within this our Realme or any the Domynions thereof or any part thereof, at all times and from time to time during the terme of yéeres before by theſe preſents graunted (as occaſion ſhalbe offered) to be obedient, ayding, aſſiſting and helping vnto the ſaid<note place="margin">Officers to ayding and <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>ng to the Pa<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>es of their <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>es.</note>ſir <hi>Arthure Aſton, Iohn Acamontie, Richard Harding, Geroge Siluer, Robert Webbe,</hi> and <hi>Frauncis Blocke,</hi> and euery of them, their &amp; euery of their executors, adminiſtrators, deputies, factors, ſeruants, &amp; aſſignes, and to euery or any of them, They or any of them ſhewing foorth theſe our Letters Patents, or the Duplicate, Tranſcript, or Exemplification thereof for the performance, accompliſhment, &amp; due execution of theſe our Letters Patents in all things and by all things according to the purport, true intent, and plaine meaning of theſe preſents.</p>
+            <p>PROVIDED alwaies neuertheleſſe, That if the ſayd ſir <hi>Arthure Aſton, Iohn Acamonty, Richard Harding, George Siluer, Robert Webbe,</hi> and <hi>Frauncis Blocke,</hi> or any of them their or any of their executors, adminiſtrators, aſſignes, ſeruants, or deputies, ſhall willingly and vnlawfully conuert any the ſaid Woods ſo by them or any of them their or any of their meanes brought into this Realme or any the Domynions thereof,<note place="margin">
+                  <gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>uided alwaies, any of the ſayd is be conuerted <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> other vſe, than <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> kind the ſayde <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>, or if, <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> is <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the dire<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> ſayd, it <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>gh the de<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> of the Pa<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> die good <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>ors, That <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> their parts <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> default, <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>gnificati<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> voide.</note> or ſeazed as aforeſaid, otherwiſe than in compounding or printring the ſame to make and dye therewith ſuch true and good colors as is before mentioned to be vndertaken by them, Or if vpon due prooſe thereof made, it ſhall appeare and prooue hereafter that the ſtuffe, ſo hereafter to be made or compounded by them or any of them, ſhall through any of their defaults, not dye or make good wearing colours as is aboue mentioned the Dyers vſing the ſame, working it vpon ſuch grounds, and according to ſuch directions as ſhalbe giuen by the ſayd ſir <hi>Arthure Aſton, Iohn Acamonty, Richard Harding, George Siluer, Robert Webbe,</hi> and <hi>Frauncis Blocke,</hi> or their aſſignes or the ſuruiuors of them or their aſſignes, or any three or more of them vnder their hands in writing, or by the executors or adminiſtrators of the ſuruiuors of them or any three or more of them vnder their hands in writing. That then and from thenceforth the power, intereſt and terme before by theſe preſents graunted of ſuch and ſo many of them as ſo ſhall offend, or make default or ſhall procure or conſent to any ſuch offence or default contrarie to the true meaning of this Prouiſoe, at the will and pleaſure of vs, our heires and ſucceſſors, in that behalfe to be ſignified vn<g ref="char:EOLhyphen"/>der our Signe Manuell and priuie Signet, ſhall as to him or them onely that ſo ſhall offend or make default, or procure or conſent to any ſuch offence or default, be vtterly voide and of none effect. Any thing before mentioned to the contrarie thereof in any wiſe notwithſtanding. AND yet neuertheleſſe for the reſidue of them that ſhall not offend, or make default, nor procure or conſent to any ſuch offence or default as is aforeſaid, Theſe preſents ſhall remaine in full ſtrength and effect. This Prouiſoe or any thing therein contained to the contrarie notwithſtanding. In witnes whereof we haue cauſed theſe our Letters to be made Patents.</p>
+            <closer>
+               <dateline>Witnes our ſelfe at Hatefield <date>the Three and Twentieth day of Auguſt the yeere of our Raigne of England, Fraunce, and Ireland, the Second: and of Scotland, the Eight and Thirtieth.</date>
+               </dateline>
+               <signed>Per Breue de priuato Sigillo. Wilkinſon.</signed>
+               <lb/> God ſaue the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed by Thomas Purfoot.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
